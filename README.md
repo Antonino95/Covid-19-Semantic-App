@@ -15,3 +15,7 @@ My project is to create a data covid-19 searching application that allows users 
 Here is a link to a video demo - 
 
 [![Youtube Thumbnail](http://i3.ytimg.com/vi/jJh-Jv3u1GQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jJh-Jv3u1GQ)
+
+Here is a link to a project documentation -
+
+https://github.com/Antonino95/Covid-19-Semantic-App/blob/master/doc/Covid19App%20documentation.pdf
