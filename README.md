@@ -18,4 +18,4 @@ Here is a link to a video demo -
 
 Here is a link to a project documentation -
 
-https://github.com/Antonino95/Covid-19-Semantic-App/blob/master/doc/Covid19App%20documentation.pdf
+https://github.com/Antonino95/Covid-19-Semantic-App/blob/master/doc/Documentation.pdf
