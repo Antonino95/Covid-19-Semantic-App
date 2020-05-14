@@ -14,4 +14,4 @@ My project is to create a data covid-19 searching application that allows users 
 
 Here is a link to a video demo - 
 
-[![Youtube Thumbnail]https://i.ytimg.com/vi/jJh-Jv3u1GQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLArUF2vzqnY3b-5om_XZolGq09InA)](https://www.youtube.com/watch?v=jJh-Jv3u1GQ)
+[![Youtube Thumbnail](http://i3.ytimg.com/vi/jJh-Jv3u1GQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jJh-Jv3u1GQ)
